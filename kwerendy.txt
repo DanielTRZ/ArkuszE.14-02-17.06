@@ -1,0 +1,7 @@
+kw1: INSERT INTO `uzytkownicy` (`id`, `imie`, `nazwisko`, `adres`, `telefon`) VALUES (NULL, 'Jan', 'Nowak', 'Warszawa, Kopernika 4', '608111222');
+
+kw2: INSERT INTO `konta` (`id`, `login`, `haslo`) VALUES (NULL, 'janNowak', 'qwerty');
+
+kw3: SELECT `imie`, `nazwisko` FROM `uzytkownicy`
+
+kw4: SELECT `uzytkownicy`.`adres` FROM `uzytkownicy` WHERE `uzytkownicy`.`id` = 1
