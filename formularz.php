@@ -12,8 +12,8 @@
 <nav>
 <h2>NASZA OFERTA</h2>
 <ol>
-<li>Instrumenty muzyczne</li>
-			<li>Sprzęt audio</li>
+<li>Instrumenty muzyczne</li> 
+<li>Sprzęt audio</li>
 			<li>Płyty CD</li>
 		</ol>
 	</nav>
