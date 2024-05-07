@@ -14,7 +14,7 @@
 <ol>
 <li>Instrumenty muzyczne</li> 
 <li>Sprzęt audio</li>
-			<li>Płyty CD</li>
+<li>Płyty CD</li>
 		</ol>
 	</nav>
 	<main>
