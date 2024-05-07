@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="muzyka.css">
 </head>
 <body>
-	<header>
+<header>
 		<h1>SKLEP MUZYCZNY</h1>
 	</header>
 	<nav>
