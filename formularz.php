@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Sklep muzyczny</title>
-	<link rel="stylesheet" type="text/css" href="muzyka.css">
+<link rel="stylesheet" type="text/css" href="muzyka.css">
 </head>
 <body>
 	<header>
