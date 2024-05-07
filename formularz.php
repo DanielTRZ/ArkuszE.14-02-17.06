@@ -8,7 +8,7 @@
 <body>
 <header>
 <h1>SKLEP MUZYCZNY</h1>
-	</header>
+</header>
 	<nav>
 		<h2>NASZA OFERTA</h2>
 		<ol>
