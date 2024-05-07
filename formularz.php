@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-		<h1>SKLEP MUZYCZNY</h1>
+<h1>SKLEP MUZYCZNY</h1>
 	</header>
 	<nav>
 		<h2>NASZA OFERTA</h2>
