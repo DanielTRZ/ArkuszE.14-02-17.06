@@ -34,7 +34,7 @@
 	echo "Nie podano danych użytkownika <br>";
 	}
 	else if (isset($imie) || isset($nazw) || isset($adr) || isset($tel))
-		{
+	{
 			$sql = "INSERT INTO `uzytkownicy` (`id`, `imie`, `nazwisko`, `adres`, `telefon`) VALUES (NULL, '$imie', '$nazw', '$adr', '$tel')";
 
 			$result = mysqli_query($connect, $sql);
