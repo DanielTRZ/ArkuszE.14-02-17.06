@@ -26,7 +26,7 @@
 	$login = $_POST['log'];
 	$passwd = $_POST['passwd'];
 
-		$connect = mysqli_connect('localhost','root','','sklep') or die('błąd połączenia bazy danych');
+	$connect = mysqli_connect('localhost','root','','sklep') or die('błąd połączenia bazy danych');
 		
 
 		if(empty($imie) || empty($nazw) || empty($adr) || empty($tel))
