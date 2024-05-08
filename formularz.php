@@ -24,7 +24,7 @@
 	$adr = $_POST['adres'];
 	$tel = $_POST['telefon'];
 	$login = $_POST['log'];
-		$passwd = $_POST['passwd'];
+	$passwd = $_POST['passwd'];
 
 		$connect = mysqli_connect('localhost','root','','sklep') or die('błąd połączenia bazy danych');
 		
