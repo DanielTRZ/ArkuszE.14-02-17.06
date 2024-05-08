@@ -57,6 +57,6 @@
 
 		mysqli_close($connect);
 	?>
-	</main>
+</main>
 </body>
 </html>
