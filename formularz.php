@@ -16,7 +16,7 @@
 <li>Sprzęt audio</li>
 <li>Płyty CD</li>
 </ol>
-	</nav>
+</nav>
 	<main>
 	<?php 
 		$imie=$_POST['name'];
