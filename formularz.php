@@ -29,7 +29,7 @@
 	$connect = mysqli_connect('localhost','root','','sklep') or die('błąd połączenia bazy danych');
 		
 
-		if(empty($imie) || empty($nazw) || empty($adr) || empty($tel))
+	if(empty($imie) || empty($nazw) || empty($adr) || empty($tel))
 		{
 			echo "Nie podano danych użytkownika <br>";
 		}
