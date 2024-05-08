@@ -17,7 +17,7 @@
 <li>Płyty CD</li>
 </ol>
 </nav>
-	<main>
+<main>
 	<?php 
 		$imie=$_POST['name'];
 		$nazw = $_POST['nazw'];
