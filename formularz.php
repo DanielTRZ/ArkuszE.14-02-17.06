@@ -21,7 +21,7 @@
 	<?php 
 	$imie=$_POST['name'];
 	$nazw = $_POST['nazw'];
-		$adr = $_POST['adres'];
+	$adr = $_POST['adres'];
 		$tel = $_POST['telefon'];
 		$login = $_POST['log'];
 		$passwd = $_POST['passwd'];
