@@ -37,7 +37,7 @@
 	{
 	$sql = "INSERT INTO `uzytkownicy` (`id`, `imie`, `nazwisko`, `adres`, `telefon`) VALUES (NULL, '$imie', '$nazw', '$adr', '$tel')";
 
-			$result = mysqli_query($connect, $sql);
+	$result = mysqli_query($connect, $sql);
 			echo 'Wpisano dane użytkownika <br> ';
 		}
 
