@@ -31,7 +31,7 @@
 
 	if(empty($imie) || empty($nazw) || empty($adr) || empty($tel))
 	{
-			echo "Nie podano danych użytkownika <br>";
+	echo "Nie podano danych użytkownika <br>";
 		}
 		else if (isset($imie) || isset($nazw) || isset($adr) || isset($tel))
 		{
