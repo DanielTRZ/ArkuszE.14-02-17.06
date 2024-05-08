@@ -19,7 +19,7 @@
 </nav>
 <main>
 	<?php 
-		$imie=$_POST['name'];
+	$imie=$_POST['name'];
 		$nazw = $_POST['nazw'];
 		$adr = $_POST['adres'];
 		$tel = $_POST['telefon'];
