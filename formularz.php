@@ -46,7 +46,7 @@
 	echo "Nie podano danych logowania";
 	}
 	else if (isset($login) || isset($passwd))
-		{
+	{
 			$sql1 = "INSERT INTO `konta` (`id`, `login`, `haslo`) VALUES (NULL, '$login', '$passwd')";
 
 			$result1 = mysqli_query($connect, $sql1);
