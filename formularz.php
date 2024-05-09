@@ -43,7 +43,7 @@
 
 	if(empty($login) || empty($passwd))
 	{
-			echo "Nie podano danych logowania";
+	echo "Nie podano danych logowania";
 		}
 		else if (isset($login) || isset($passwd))
 		{
