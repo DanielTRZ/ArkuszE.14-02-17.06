@@ -39,7 +39,7 @@
 
 	$result = mysqli_query($connect, $sql);
 	echo 'Wpisano dane użytkownika <br> ';
-		}
+	}
 
 		if(empty($login) || empty($passwd))
 		{
