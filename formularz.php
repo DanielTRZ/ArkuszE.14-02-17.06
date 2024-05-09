@@ -50,7 +50,7 @@
 	$sql1 = "INSERT INTO `konta` (`id`, `login`, `haslo`) VALUES (NULL, '$login', '$passwd')";
 
 	$result1 = mysqli_query($connect, $sql1);
-			echo 'Wpisano dane logowania';
+	echo 'Wpisano dane logowania';
 		}
 
 		
