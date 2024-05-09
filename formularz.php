@@ -51,7 +51,7 @@
 
 	$result1 = mysqli_query($connect, $sql1);
 	echo 'Wpisano dane logowania';
-		}
+	}
 
 		
 
