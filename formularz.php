@@ -41,7 +41,7 @@
 	echo 'Wpisano dane użytkownika <br> ';
 	}
 
-		if(empty($login) || empty($passwd))
+	if(empty($login) || empty($passwd))
 		{
 			echo "Nie podano danych logowania";
 		}
