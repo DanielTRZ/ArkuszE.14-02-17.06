@@ -11,7 +11,7 @@
 </header>
 <nav>
 <h2>NASZA OFERTA</h2>
-		<ol>
+<ol>
 			<li>Instrumenty muzyczne</li>
 			<li>Sprzęt audio</li>
 			<li>Płyty CD</li>
