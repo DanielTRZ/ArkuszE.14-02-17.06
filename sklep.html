@@ -9,7 +9,7 @@
 <header>
 <h1>SKLEP MUZYCZNY</h1>
 </header>
-	<nav>
+<nav>
 		<h2>NASZA OFERTA</h2>
 		<ol>
 			<li>Instrumenty muzyczne</li>
